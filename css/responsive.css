@@ -1,0 +1,125 @@
+@media screen and (max-width: 770px) {
+  .navbar {
+    width: 90%;
+  }
+  .logo h2 a {
+    font-size: 20px;
+  }
+  #menu_bar {
+    display: grid;
+    color: #fff;
+    position: absolute;
+    right: 5%;
+    top: 20%;
+    border: 1px solid #fff;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  .nav_links {
+    flex-direction: column;
+    position: absolute;
+    background: #2686d5;
+    width: 100%;
+    left: 10px;
+    padding: 0;
+  }
+  .nav_links {
+    flex-direction: column;
+    position: absolute;
+    background: #2686d5;
+    width: 100%;
+    left: 0;
+    padding: 0;
+  }
+  .nav_links li {
+    border-bottom: 0.5px solid #fff;
+    display: block;
+    border-radius: 0;
+    padding: 5px 0;
+    margin: 0 5px;
+  }
+  .nav_links li:last-child a {
+    border-bottom: none;
+  }
+  .inner_anasayfa {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+  .child_anasayfa {
+    flex-basis: 100%;
+  }
+  .child_anasayfa:last-child a {
+    margin-bottom: 20px;
+  }
+  .child_anasayfa h1 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  /* YAZILIMLAR */
+  .innersoftware {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  .innersoftware_child {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* SERTIFIKALARIM */
+
+  .child_cources {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* BASARILARIM */
+  .child_achivemment {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* HAKKIMDA */
+  .single_detail {
+    flex-basis: 100%;
+  }
+  .child_testi {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* ILETISIM */
+  .child_contact {
+    flex-basis: 100;
+    margin-bottom: 30px;
+  }
+  .inner_contact {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* FOTO GALERIM */
+  .fotogalerim_genel {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  .child_fotogalerim {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  .fotogalerim {
+    flex-basis: 100%;
+  }
+  /* ILETISIME GEC */
+
+  .inner_contact {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  .child_contact {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  /* .fotogalerim {
+  flex-basis: 100%;
+} */
+}
