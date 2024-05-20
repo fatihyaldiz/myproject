@@ -1,1 +1,9 @@
-# newproject
+<h1> PERSONAL PROJECT</h1>
+
+This is my first personal information project.
+
+<h2>Extra Elements</h2>
+
+Used HTML and CSS and JavaScript
+
+<h2>
