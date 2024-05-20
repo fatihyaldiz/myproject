@@ -6,4 +6,6 @@ This is my first personal information project.
 
 Used HTML and CSS and JavaScript
 
-<h2>
+<h2>Screen Shot</h2>
+
+![](Screen.gif)
