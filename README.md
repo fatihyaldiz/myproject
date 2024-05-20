@@ -8,4 +8,6 @@ Used HTML and CSS and JavaScript
 
 <h2>Screen Shot</h2>
 
-![](Screen.gif)
+![][screen.gif]
+
+[screen.gif]: screen.gif
